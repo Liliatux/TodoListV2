@@ -1,0 +1,10 @@
+.tache {
+  border: 2px solid blue;
+  display: inline-block;
+  padding: 1em;
+  width: 75%;
+}
+
+.tache-header {
+  text-align: center;
+}
